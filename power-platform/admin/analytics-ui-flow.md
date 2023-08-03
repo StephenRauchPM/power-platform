@@ -29,6 +29,9 @@ Runs | This report gives you an overview of the daily, weekly, and monthly deskt
 Usage | This report shows you the desktop flows that are being used most, giving you insights into your automation inventory.
 Created | This report shows you analytics against recently created desktop flows, giving you insights into your most active desktop flows makers.
 
+## Data Storage 
+When a user first creates an environment from a region, the environment is always hosted in that region. The data is stored only in the region that an environment is hosted in. Data is stored for a maximum of 28 days. The data refresh cycle is about 24 hours and the last refresh time in UTC time standard is displayed on the upper-right corner of the page.
+
 ## Prerequisites
 
 You must have the **environment admin** privilege to access the Power Platform admin center reports.
